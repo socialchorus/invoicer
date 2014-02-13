@@ -1,4 +1,6 @@
-invoicer
+Invoicer Requirements
 ========
 
-For the February 12, 2014 Meetup
+  * Should filter invoices by date range
+  * Should toggle use of date range with a flag
+  * Should return all invoices when date range is inactive
