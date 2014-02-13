@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  customer_id: 1
+  issue_date: 2014-02-12
+  total: 1.5
+
+two:
+  customer_id: 1
+  issue_date: 2014-02-12
+  total: 1.5
